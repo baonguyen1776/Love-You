@@ -322,7 +322,7 @@ var ParticlePool = (function() {
   }, 10);
 })(document.getElementById('pinkboard'));
   </script>
-  <div class="center-text",
+  
   
  </BODY>
 </HTML>
