@@ -1,5 +1,3 @@
-#LoveYou
-
 <HTML>
  <HEAD>
  <meta charset="utf-8" />
